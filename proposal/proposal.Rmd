@@ -31,7 +31,7 @@ knitr::include_graphics("proposal/excerpt.png")
 ```
 
 
-This lack of structure is perceivably less dramatic than that encountered for information entrained in emails, Twitter feet and literature. Nonetheless, the primary task of identifying variables, values, and units, as distinct entities as well as larger structures (e.g., tables), is the most challenging task in this undertaking.
+This lack of structure is perceivably less dramatic than that encountered for information entrained in emails, Twitter feeds and literature. Nonetheless, the primary task of identifying variables, values, and units, as distinct entities as well as larger structures (e.g., tables), is the most challenging task in this undertaking.
 
 At present we envision three possible solutions, which require varying degrees of human intervention.
 
