@@ -40,9 +40,8 @@ The duration of the project will be 12 months. The "**deliverable**" gives a con
 
 ***Months 7--8***
 
-- Integrate C++ with R and implement altrep framework for lazy access.
-- Installable package on GitHub with documentation as vignettes and website with *pkgdown* [@pkgdown].
-- **Deliverable:** Installable and documented package on GitHub.
+- Integrate C++ with R and implement altrep framework for lazy access as well as integrate iRODS functionality.
+- **Deliverable:** Installable package on GitHub with documentation as vignettes and website with *pkgdown* [@pkgdown].
 
 ***Months 9--10***
 

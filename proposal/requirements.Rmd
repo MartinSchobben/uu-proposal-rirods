@@ -1,6 +1,6 @@
 # Requirements
 
-The realisation of this package requires a collaborative environment that includes the potential users, and their specific requirements for processing analytical data, as well as developers and data scientist with expertise in a range of disciplines. In regards to development, we brought together a multi-disciplinary team, and consulted experts of data management and Natural Language Processing, and the integration of C++ and R.
+The realisation of this package requires a collaborative environment that includes the potential users, and their specific requirements for processing analytical data, as well as developers and data scientist with expertise in a range of disciplines. In regards to development, we brought together a multi-disciplinary team, and consulted experts of data management, machine learning, and the integration of C++ and R.
 
 <!-- 
 An idea of what is required to make the project actually happen
