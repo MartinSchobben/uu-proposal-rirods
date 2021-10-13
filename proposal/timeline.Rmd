@@ -30,13 +30,13 @@ The duration of the project will be 12 months. The "**deliverable**" gives a con
 ***Months 3--4***
 
 - Start with basic package set-up with *devtools* [@devtools], create source scripts in C++ for loading data files.
-- Follow best practices from the start of package development; e.g., documenting progress, maintaining a functioning Git master branch and usage of development branches for experimental updates. This will be published on Github from the start, and tags are created when milestones are hit to benefit progress tracking. In addition, unit tests are constantly developed to ensure that a particular behaviour of a function is, and remains, correct (and also regularly checking code coverage of said tests). And, lastly testing code, portability, and documentation with `R CMD check` and with continuous integration provided by [Travis CI](https://travis-ci.org/).
+- Follow best practices from the start of package development; e.g., documenting progress, maintaining a functioning Git master branch and usage of development branches for experimental updates. This will be published on GitHub from the start, and tags are created when milestones are hit to benefit progress tracking. In addition, unit tests are constantly developed to ensure that a particular behaviour of a function is, and remains, correct (and also regularly checking code coverage of said tests). And, lastly testing code, portability, and documentation with `R CMD check` and with continuous integration provided by [Travis CI](https://travis-ci.org/).
 - **Deliverable:** A GitHub repo with the basis of the package.
 
 ***Months 5--6***
 
 - Minimal functionality to locate variables within their context (Solution 1), and test on different use-cases.
-- **Deliverable:** A tag in the GitHub repo annotating the milestone for the minimal viable product.
+- **Deliverable:** A tag in the GitHub repo annotating the milestone of a function (meta)data tagging solution.
 
 ***Months 7--8***
 
@@ -47,7 +47,7 @@ The duration of the project will be 12 months. The "**deliverable**" gives a con
 
 - Test use cases for the integrated lab and using C++ code basis for centralised data management (iRODS) in a laboratory setting (UU).
 - Optional: Further development on the engine for data collecting and harmonization, e.g., probing solutions 2 and 3.
-- **Deliverable:** A tag in the GitHub repo annotating the milestone of successful implementation for integration with iRODS.
+- **Deliverable:** A tag in the GitHub repo annotating the milestone of successful integration with iRODS.
 
 
 ***Months 11--12***

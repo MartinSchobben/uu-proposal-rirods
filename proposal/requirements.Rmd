@@ -24,7 +24,7 @@ Who needs to be involved, what's the proposed structure, what will it take to ge
 
 ## Processes
 
-A prime controller in the initiation of the project is the report (and blog post) in the first two months (see, deliverable Months 1--2; Section \@ref(sec:Technical)), which tries to give an overview of existing data management infrastructures and common data models (i.e., instrument output) in analytical laboratory settings. Based on this deliverable, adoptions to the initial plan can be made. Specifically, it helps select what solution should be adopted for data selection and harmonisation. To foster an efficient start-up and continues collaboration, we adopt a strategy of publishing advancements in development at an early stage, so that testing and evaluation can begin as soon as possible. Feedback on these early developments is sought actively through our dedicated list of consultants, but also the community at large through Twitter and other channels. Throughout this process, we will make sure that the code of conduct, as outlined in Section \@ref(sec:Start), is adhered to.
+A prime controller in the initiation of the project is the report (and blog post) in the first two months (see, deliverable Months 1--2; Section \@ref(sec:Technical)), which tries to give an overview of existing data management infrastructures and common data models (i.e., instrument output) in analytical laboratory settings. Based on this deliverable, and input from lab-users, adoptions to the initial plan can be made. Specifically, it helps select what solution should be adopted for data selection and harmonisation. To foster an efficient start-up and continues collaboration, we adopt a strategy of publishing advancements in development at an early stage, so that testing and evaluation can begin as soon as possible. Feedback on these early developments is sought actively through our dedicated list of consultants, but also the community at large through Twitter and other channels. Throughout this process, we will make sure that the code of conduct, as outlined in Section \@ref(sec:Start), is adhered to.
 
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
@@ -43,7 +43,7 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 
 ## Funding
 
-We request \$xx,xxx for the salary of MS (project lead) for 0.5 ft working hours a week. This sum is based on the salary for a PostDoc in natural sciences, including the applicants years of experience. The remainder of working hours he will spend on developing and giving courses/workshops (see FAIReLABS; Section \@ref(sec:Start)) that entail best practices in data management, reproducible science and data science with R (see e.g., [PAGES workshop youtube](https://www.youtube.com/watch?v=r99jsChi4HU)). The latter activities are not include in the salary request. We also request \$x,xxx funding for the attendance of one conference (addressing a potential user-base).
+We request \$35,800 for the salary of MS (project lead) for 0.75 ft working hours a week and overhead expenses (utilities, Travis CI 1 year core plan, and travel expenses for local lab visits). This sum is based on the salary for a postdoc in natural sciences, including the applicants years of experience. The remainder of working hours he will spend on developing and giving courses/workshops (see FAIReLABS; Section \@ref(sec:Start)) that entail best practices in data management, reproducible science and data science with R (see e.g., [PAGES workshop youtube](https://www.youtube.com/watch?v=r99jsChi4HU)). The latter activities are not include in the salary request. We also request \$1,750 funding for the attendance of one conference (addressing a potential user-base; EGU 2022 Vienna).
 
 
 <!-- 
@@ -53,7 +53,8 @@ We request \$xx,xxx for the salary of MS (project lead) for 0.5 ft working hours
 
 ## Summary
 
-Salary to support the project lead (MS) is requested. He will dedicate 0.5 ft (18 hours a week -  common under European labour laws) of his time to the development, documentation as well as outreach of the package.
+Salary to support the project lead (MS) is requested. He will dedicate 0.75 ft of his time to the development, documentation as well as outreach of the package.
+
 <!--
 A summary of the requirements that contextualises the costs
 -->
