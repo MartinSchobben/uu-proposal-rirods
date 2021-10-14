@@ -6,11 +6,11 @@ The realisation of this package requires a collaborative environment that includ
 An idea of what is required to make the project actually happen
 -->
 
-## People
+## People {#sec:people}
 
 The project team will try to form a comprehensive picture of the current state of data management practices in laboratories through direct interaction with lab-users. In addition, they take control in all steps of development, documentation and outreach of the package. Dedicated consultants have been contacted and their expertise is regarded as an essential aid for successful deployment of the plan.
 
-The project lead (MS) is an Earth scientist with 10 years of experience in academic research, and he has worked in several analytical laboratory facilities (MfN Berlin, University of Leeds, and Utrecht University). He also has a solid basis in data-analysis and programming with R, and has started developing packages for the processing of isotope chemical data (see [point](https://martinschobben.github.io/point/)). Teaching and helping others to encode R solutions has been another of his passions, such as the development of [workshops](https://www.youtube.com/watch?v=r99jsChi4HU), and by founding of an R help desk at the UU ([uu-code-club](https://github.com/uu-code-club)).
+The project lead (MS) is an Earth scientist with 10 years of experience in academic research, and he has worked in several analytical laboratory facilities (MfN Berlin, University of Leeds, and Utrecht University). He also has a solid basis in data-analysis and programming with R, and has started developing packages for analysing isotope chemical data (see [point](https://martinschobben.github.io/point/)). Teaching and helping others to encode R solutions has been another of his passions, such as the development of [workshops](https://www.youtube.com/watch?v=r99jsChi4HU), and by founding of an R help desk at the UU ([uu-code-club](https://github.com/uu-code-club)).
 
 JK, a computational chemist, has 5 years of experience in computer simulations, such as Molecular Dynamics, Umbrella Sampling and metadynamics. She is currently working as a postdoc. Previously, she worked in an analytical laboratory at the R&D department of Canon. In both jobs she used different programs (matlab, python and fortran) to process large amounts of data.
 
@@ -43,7 +43,7 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 
 ## Funding
 
-We request \$35,800 for the salary of MS (project lead) for 0.75 ft working hours a week and overhead expenses (utilities, Travis CI 1 year core plan, and travel expenses for local lab visits). This sum is based on the salary for a postdoc in natural sciences, including the applicants years of experience. The remainder of working hours he will spend on developing and giving courses/workshops (see FAIReLABS; Section \@ref(sec:Start)) that entail best practices in data management, reproducible science and data science with R (see e.g., [PAGES workshop youtube](https://www.youtube.com/watch?v=r99jsChi4HU)). The latter activities are not include in the salary request. We also request \$1,750 funding for the attendance of one conference (addressing a potential user-base; EGU 2022 Vienna).
+We request \$35,800 for the salary of MS (project lead) for 0.75 ft working hours a week and overhead expenses (utilities, Travis CI 1 year core plan, and travel expenses for local lab visits). This sum is based on the salary for a postdoc in natural sciences, including the applicants years of experience. The remainder of working hours he will spend on developing and giving courses/workshops (see FAIReLABS; Section \@ref(sec:Start)) that entail best practices in data management, reproducible science and data science with R (see e.g., [PAGES workshop youtube](https://www.youtube.com/watch?v=r99jsChi4HU)). The latter activities are not include in the salary request. We also request \$2,500 funding for the attendance of two conference for one person (provisionally, addressing a potential user-base; EGU 2022 Vienna, and the open science community at ICOSRP 2022 Helsinki).
 
 
 <!-- 

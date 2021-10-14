@@ -12,6 +12,8 @@ An optional section would be for R-Core signatories where changes to R are propo
 **Johan Renaudie**, Museum für Naturkunde ‐ Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany      
 **Terrell Russell**, iRODS Consortium, Chapel Hill, United States of America  
 
+*A detailed account of the individual team member's interests and skills can be found in Section \@ref(sec:people).*
+
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
@@ -25,10 +27,13 @@ Who are the people who have actively helped with this proposal but won't necessa
 
 ## Consulted
 
-**Francien Peterse**, Utrecht University, Utrecht, the Netherlands   
+**Bas van de Schootbrugge**, Utrecht University, Utrecht, the Netherlands    
+**Francien Peterse**, Utrecht University, Utrecht, the Netherlands     
+**Inigo Müller**, University of Geneva, Geneva, Switzerland      
 **Jan Voskuil**, Taxonic & Ontologist, The Hague, the Netherlands   
 **Lubos Polerecky**, Utrecht University, Utrecht, the Netherlands         
-**Mariette Wolthers**, Utrecht University, Utrecht, the Netherlands     
+**Mariette Wolthers**, Utrecht University, Utrecht, the Netherlands  
+**Peter Bijl**, Utrecht University, Utrecht, the Netherlands    
 **William Foster**, University Hamburg, Hamburg, Germany   
 
 <!-- 
