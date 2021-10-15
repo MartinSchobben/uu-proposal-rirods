@@ -42,7 +42,7 @@ The duration of the project will be 12 months. The "**deliverable**" gives a con
 
 - Include iRODS functionality.
 - Present package at conference(s) targeting users (natural science conference) and/or developers (R or open science conference).
-- **Deliverable:** Installable package on GitHub with documentation as vignettes and website with *pkgdown* [@pkgdown] and presentation.
+- **Deliverable:** Installable package on GitHub with documentation as vignettes and website with *pkgdown* [@pkgdown].
 
 ***Months 9--10***
 
