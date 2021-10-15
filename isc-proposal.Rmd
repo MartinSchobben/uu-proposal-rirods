@@ -32,6 +32,8 @@ bibtex::write.bib(
   )
 ```
 
+`r if (knitr::is_latex_output()) "\\newpage"`
+
 ```{r autodoc, child='proposal/signatories.Rmd', eval=TRUE}
 ```
 
