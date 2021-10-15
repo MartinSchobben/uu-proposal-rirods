@@ -42,7 +42,7 @@ The duration of the project will be 12 months. The "**deliverable**" gives a con
 
 - Include iRODS functionality.
 - Present package at conference(s) targeting users (natural science conference) and/or developers (R or open science conference).
-- **Deliverable:** Installable package on GitHub with documentation as vignettes and website with *pkgdown* [@pkgdown].
+- **Deliverable:** Installable package on GitHub with documentation as vignettes and website with *pkgdown* [@pkgdown] and presentation.
 
 ***Months 9--10***
 
@@ -56,7 +56,7 @@ The duration of the project will be 12 months. The "**deliverable**" gives a con
 - Publish on CRAN.
 - Include usage of package in teaching/course material provided by FAIReLABS.
 - Optional: Further development on the engine for data collecting and harmonization, e.g., probing solutions 2 and 3.
-- **Deliverable:** Installable package on CRAN and presentation.
+- **Deliverable:** Installable package on CRAN.
 
 <!--
 Covering the actual delivery of the project this section should provide at least a high-level the implementation. 

@@ -5,7 +5,7 @@ Projects should have a definition of done that is measurable, and a thorough und
 
 ## Definition of done
 
-The deliverable "Installable package on CRAN and presentation" of Section \@ref(sec:Technical) defines achievement of the minimal viable product (Solution 1; Section \@ref(sec:Detail)). Progress on the implementation of Solutions 2 and/or 3 is seen as a bonus.
+The deliverable "Installable package on CRAN" of Section \@ref(sec:Technical) defines achievement of the minimal viable product (Solution 1; Section \@ref(sec:Detail)). Progress on the implementation of Solutions 2 and/or 3 is seen as a bonus.
 <!-- 
 What does success look like? 
 -->
