@@ -14,7 +14,7 @@ Besides addressing the vendor lock-in of analytical data and optimized data mana
 2. Data formats from defunct software and vendors can be more conveniently analysed and/or archived in a central data management system.
 3. The integration of (meta)data from different sources can aid online monitoring of lab performance. For example, centralised data management could theoretically provide opportunities for early detection of problems, such as sample/reagent pollution and anomalous lab-environmental conditions. The latter problems would be much harder to detect with stand-alone vendor supplied solutions.
 
-To conclude, we want to put scientist back in control of their data, without having to rely on closed-sourced vendor software. This could save countless working hours and large sums of taxpayer money, which can then be spend on other tasks. Together with the benefits of integrated labs, this could lead to new innovations, more transparent science, and improve the inclusiveness of the academic community. 
+To conclude, we want to put scientist back in control of their data, without having to rely on closed-sourced vendor software. This could save countless working hours and large sums of taxpayer money. Together with the benefits of integrated labs, this could lead to new innovations, more transparent science, and improve the inclusiveness of the academic community. 
 
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.

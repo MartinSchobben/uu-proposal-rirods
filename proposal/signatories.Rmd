@@ -32,7 +32,8 @@ Who are the people who have actively helped with this proposal but won't necessa
 **Inigo Müller**, University of Geneva, Geneva, Switzerland      
 **Jan Voskuil**, Taxonic & Ontologist, The Hague, the Netherlands   
 **Lubos Polerecky**, Utrecht University, Utrecht, the Netherlands         
-**Mariette Wolthers**, Utrecht University, Utrecht, the Netherlands  
+**Mariette Wolthers**, Utrecht University, Utrecht, the Netherlands    
+**Nicole Geerlings**, College Hageveld, Heemstede, the Netherlands    
 **Peter Bijl**, Utrecht University, Utrecht, the Netherlands    
 **William Foster**, University Hamburg, Hamburg, Germany   
 
