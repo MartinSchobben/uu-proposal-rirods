@@ -43,29 +43,21 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 
 ## Funding
 
-We request \$37,500 for the gross salary of MS (project lead) for 0.75 ft working hours a week and direct project costs (Table \@ref(tab:itemized)). This sum is based on the gross salary for a postdoc in natural sciences, including the applicants years of experience. The remainder of working hours he will spend on developing and giving courses/workshops (see FAIReLABS; Section \@ref(sec:Start)) that entail best practices in data management, reproducible science and data science with R (see e.g., [PAGES workshop youtube](https://www.youtube.com/watch?v=r99jsChi4HU)). The latter activities are not include in the salary request. We also request \$2,500 funding for the attendance of two conference for one person. Provisionally, addressing a potential user-base and the open science community at the EGU General Assembly 2022 Vienna and the ICOSRP 2022 Helsinki (or the iRODS User Group Meeting 2022 Leuven), respectively.
+We request \$959 for direct project costs and \$2,500 in funding for the attendance of two conference for one person (Table \@ref(tab:itemized)). Provisionally, addressing a potential user-base and the open science community at the EGU General Assembly 2022 Vienna and the ICOSRP 2022 Helsinki (or the iRODS User Group Meeting 2022 Leuven), respectively.
 
 ```{r itemized, echo=FALSE, results='asis'}
-Price <- c(36541, 759, 200, 2500)
+Price <- c(759, 200, 2500)
 budget <- tibble::tibble(
   Item = c(
-    "gross salary", 
-    "direct project costs", 
-    "", 
-    "",
-    "Total"
-    ),
-  ` ` = c(
-    "", 
     "Travis CI 1 year core plan", 
     "travel expenses for local lab visits",
     "conferences",
-    ""
+    "Total"
     ),
   Currency = "$",
   Price = c(Price, sum(Price))
 )  
-knitr::kable(budget, caption = "Itemized budget.")
+knitr::kable(budget, caption = "Itemized budget.", format.args = list(big.mark = ","))
 ```
 
 
@@ -76,7 +68,7 @@ knitr::kable(budget, caption = "Itemized budget.")
 
 ## Summary
 
-Salary to support the project lead (MS) is requested. He will dedicate 0.75 ft of his time to the development, documentation as well as outreach of the package.
+Support is requested for the development, documentation as well as outreach of the package.
 
 <!--
 A summary of the requirements that contextualises the costs

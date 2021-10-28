@@ -1,4 +1,4 @@
-proposal <- "panacea: Portable ANalytical data Aggregation and Coordination for database Entry and Access"
+proposal <- "FAIRification of lab data" 
 proposal.file <- "isc-proposal.Rmd"
 author <- "Martin Schobben"
 
