@@ -24,7 +24,6 @@ The duration of the project will be 12 months. The "**deliverable**" gives a con
 
 - Documentation of use-cases combined with on-premise visits to lab facilities.
 - Determine the feasibility of the solutions for the engine of the core function as discussed in section (\@ref(sec:Detail)) and make a selection.
-<!-- - NLP solution is specifically discussed with experts from [Taxonic](https://www.taxonic.com/en/) -->
 - **Deliverable:** We report our finding on the current state of data management infrastructures and common data models (i.e., instrument output) in analytical laboratory settings as a blog post.
 
 ***Months 3--4***
