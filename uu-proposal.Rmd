@@ -1,9 +1,9 @@
 ---
-title: RESTfull iRODS with R (rirods2)
+title: RESTful iRODS for R (rirods2)
 subtitle: ISC proposal
 author: Martin Schobben
 date: "`r Sys.Date()`"
-output: html_document
+output: bookdown::pdf_book
 urlcolor: blue
 bibliography: ["proposal/uu-proposal.bib", "proposal/packages.bib"]
 ---
