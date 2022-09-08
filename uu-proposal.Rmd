@@ -1,11 +1,11 @@
 ---
-title: "`r proposal`"
+title: RESTfull iRODS with R (rirods2)
 subtitle: ISC proposal
-author: "`r author`"
+author: Martin Schobben
 date: "`r Sys.Date()`"
 output: html_document
 urlcolor: blue
-bibliography: ["proposal/FAIReLABS-ics-proposal.bib", "proposal/packages.bib"]
+bibliography: ["proposal/uu-proposal.bib", "proposal/packages.bib"]
 ---
 
 ```{r setup, eval=TRUE, results='hide', echo=FALSE}
@@ -14,8 +14,7 @@ knitr::opts_knit$set(warning = FALSE, message= FALSE, echo= FALSE)
 
 ```{r pkgs, eval=FALSE, echo= FALSE}
 # run for bibtex of pkgs
-pkgs <- c("readr", "vroom", "xrftools", "isoreader", "point", "cpp11", 
-          "devtools", "pkgdown", "tibble") 
+pkgs <- c("devtools") 
 rirods <- bibentry(
   key = "rirods",
   bibtype = "Misc",
@@ -29,7 +28,7 @@ pkgs <- bibtex::read.bib("proposal/packages.bib")
 bibtex::write.bib(
   purrr::reduce(list(rirods, pkgs), append), 
   file = "proposal/packages.bib"
-  )
+)
 ```
 
 `r if (knitr::is_latex_output()) "\\newpage"`
