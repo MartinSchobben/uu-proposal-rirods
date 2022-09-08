@@ -33,6 +33,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libcurl4-openssl-dev
+        with:
+          extra-packages: any::bookdown
           
       - name: Restore packages
         shell: Rscript {0}
