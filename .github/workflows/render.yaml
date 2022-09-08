@@ -45,7 +45,6 @@ jobs:
         run: |
           dir.create("docs")
           rmarkdown::render("uu-proposal.Rmd", output_format = "bookdown::html_document2", output_dir = "docs", quiet = TRUE)
-          rmarkdown::render("uu-proposal.Rmd", output_format = "bookdown::pdf_book", output_dir = "docs", quiet = TRUE)
 
       - name: Deploy to GitHub pages 🚀
         if: github.event_name != 'pull_request'
